@@ -1,5 +1,5 @@
 module.exports={
-	publicPath:"/"
+	publicPath:"/",
     devServer:{
         open:true,//配置浏览器自动打开
         host:'localhost',
